@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Raaye7</string>
+    <string name="title_activity_maps">Raye7</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="AlartMessageNoGPS">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="SelectTime" >Select Time</string>
+    <string name="SelectDate" >Select Date</string>
+    <string name="from">From :   </string>
+    <string name="to">To      :  </string>
+    <string name="search">  Search</string>
+    <string name="tripTime">Trip time :</string>
+    <string name="initdate">05 : 20  5/6/2017</string>
+    <string name="TakeMycar">Take My Car</string>
+    <string name="RequestPickup">Request a Pickup</string>
+
+</resources>
